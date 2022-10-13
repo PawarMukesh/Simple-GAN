@@ -1,7 +1,5 @@
 # Simple-GAN
 ## Generative Adversarial Network
 
-Generative adversarial networks (GANs) are an exciting recent innovation in machine learning. 
 ### GANs are generative models: they create new data instances that resemble your training data.
-
-**Here we are use inbuid mnist data for create new images from existing data**
+Given a training set, this technique learns to generate new data with the same statistics as the training set. For example, a GAN trained on photographs can generate new photographs that look at least superficially authentic to human observers, having many realistic characteristics
